@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Michelle, a data enthusiast from Myanmar, Singapore, and New York! 
 
 <!--
 **michelledu88/michelledu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
