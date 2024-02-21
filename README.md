@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm Michelle, a firm believer in the impact of data-driven insights! 
 
-Fun facts about me:
+✨About me✨
+
 🌏 Multicultural background across Singapore, Myanmar, and the USA!
 
 💼 Information Systems+ Marketing educational background with 2 years of professional data analytics experience
