@@ -1,6 +1,13 @@
 ### Hi there 👋
-I'm Michelle, a data enthusiast from Myanmar, Singapore, and New York! 
+I'm Michelle, a firm believer in the impact of data-driven insights! 
 
+Fun facts about me:
+🌏 Multicultural background across Singapore, Myanmar, and the USA!
+💼 Information Systems+ Marketing educational background with 2 years of professional data analytics experience
+🚀 Enthusiastic about leveraging data for innovation and positive social impact
+🌱 Proficient in SQL, Python, Tableau, and committed to continuous learning and growth
+ 
+⚡ Fun fact: I have three different legal names!
 <!--
 **michelledu88/michelledu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
