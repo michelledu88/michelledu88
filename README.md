@@ -8,6 +8,7 @@ Fun facts about me:
 🌱 Proficient in SQL, Python, Tableau, and committed to continuous learning and growth
  
 ⚡ Fun fact: I have three different legal names!
+
 <!--
 **michelledu88/michelledu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
